@@ -46,7 +46,7 @@ export default defineConfig({
 				{
 					label: '⚙️ Profile Settings',
 					items: [
-						{ label: '👤 Creating an Account and Logging In', slug: 'guides/profile/create' },
+						{ label: '👤 Sign Up and Login', slug: 'guides/profile/create' },
 						{ label: '🧭 Navigating the Profile Page', slug: 'guides/profile/navigate' },
 						{ label: '✏️ Editing Your Profile', slug: 'guides/profile/edit' },
 						{ label: '🌍 Managing Your Worlds', slug: 'guides/profile/manage' },

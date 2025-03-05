@@ -14,3 +14,4 @@ Once logged in, you will be taken to your Profile Page, which includes:
   - **Created Worlds**: Shows projects you have built.
   - **Published Worlds**: Displays publicly shared experiences.
 - Create New World Button: Allows you to start a new project.
+![Imagine Kit landing page images](../../../../assets/profile.png)

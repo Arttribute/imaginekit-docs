@@ -15,5 +15,5 @@ description: Buidling using Imagine Kit.
 - Connect it to the Image Generator node’s output.
 
 Your flow should look something like this by now:
-
+![Imagine Kit landing page images](../../../../assets/logic-flow.png)
 

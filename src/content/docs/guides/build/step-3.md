@@ -7,3 +7,5 @@ description: Buidling using Imagine Kit.
 
 - Drag a Text Output node to display the generated story.
 - Connect the Story output from the Assistant node to the Text Output node. 
+
+![Imagine Kit landing page images](../../../../assets/story-text-output.png)
