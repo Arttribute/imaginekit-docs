@@ -13,4 +13,4 @@ description: Buidling using Imagine Kit.
 
 Your workflow should now be complete, allowing users to generate and experience AI-driven African storytelling!  
 
-[Learn more about the components in ImagineKit.](#)
+[Learn more about the components in ImagineKit.](../components/ai.md)
